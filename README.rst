@@ -34,8 +34,9 @@ Contribute
 Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having issues, tell someone else, but please don't mention me.
+
+We have a mailing list located at: project@nibblenabble.com
 
 License
 -------
